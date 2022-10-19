@@ -5,14 +5,6 @@
 
 </br>
 
-## :pushpin: Intro
->"결과물을 확인하는 것이 좋았습니다"  
->개발공부를 하며 느낀점입니다.  
->내가 작성한 코드에서 잘못된 점이 있으면 바로 오류로 나타나고  
->그 코드를 바로잡으면 실행되는 명확함이 좋았습니다.  
-
-</br>
-
 ## :pushpin: Contact
 - 이메일: sh03136@naver.com
 - 깃허브: https://github.com/chadol0313
@@ -22,7 +14,7 @@
 ## :pushpin: Projects
 ### 1. [모임(MOIM)](https://github.com/chadol0313/archive)
 >CRUD 게시판:모임 (개인 프로젝트)  
->개발 기간: 2022.9.23 ~ 2022.10.15  
+>개발 기간: 2022.9.23 ~ 기능 보완중 
 >  
 >기술 스택:  
 >Java 8 / Spring Boot / Gradle / MyBatis / Spring Tool Suite 4  
