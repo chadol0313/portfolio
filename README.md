@@ -11,7 +11,7 @@
 
 </br>
 
-## :pushpin: Projects
+## :pushpin: 프로젝트
 ### 1. [모임(MOIM)](https://github.com/chadol0313/archive)
 >CRUD 게시판:모임 (개인 프로젝트)  
 >개발 기간: 2022.9.23 ~ 기능 보완중 
@@ -34,3 +34,4 @@
 >  
 >:link:[프로젝트 상세 설명](https://github.com/chadol0313/Ezen-Shelter) 참고
 
+</br>
