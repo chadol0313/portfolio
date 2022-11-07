@@ -18,7 +18,7 @@
 >  
 >기술 스택:  
 >Java 8 / Spring Boot / Gradle / MyBatis / Spring Tool Suite 4  
->Apache Tomcat 9 / MySQL / Oracle 11g / JavaScript / HTML5 & CSS3
+>Apache Tomcat 9 / Oracle 11g / JavaScript / HTML5 & CSS3
 >  
 >:link:[프로젝트 상세 설명](https://github.com/chadol0313/archive) 참고
 
@@ -30,7 +30,7 @@
 >  
 >기술 스택:  
 >Java 8 / Spring Boot / Gradle / MyBatis / Spring Tool Suite 4  
->Apache Tomcat 9 / MySQL / Oracle 11g / JavaScript / HTML5 & CSS3
+>Apache Tomcat 9 / Oracle 11g / JavaScript / HTML5 & CSS3
 >  
 >:link:[프로젝트 상세 설명](https://github.com/chadol0313/Ezen-Shelter) 참고
 
